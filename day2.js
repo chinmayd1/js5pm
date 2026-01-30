@@ -108,4 +108,5 @@ for(let i = 5 ; i >= 2 ; i--){
         continue
     }
     console.log(i)
+    console.log("hello")
 }
